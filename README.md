@@ -6,7 +6,7 @@ Tenho conhecimento nas seguintes tecnologias: Apache Netbeans IDE 13, Git Bash, 
 
 No momento não estou trabalhando pois tirei esse tempo para me aprofundar nesse mundo da programação ❤.
 Tenho bastante experiência em Vendas / Importação / Exportação/ Compras e sou Graduada em Comércio Exterior e Administração de Empresas. 
-Acredito que toda essa bagagem que tenho, tem muito a agregar nessa área de programação de sistemas pois terei também o olhar especial do cliente/usuário. 
+Acredito que toda esse conhecimento que tenho, tem muito a agregar nessa área de programação de sistemas pois terei também o olhar especial do cliente/usuário. 
 
 Tenho alguns projetos que fiz que estão lá no Repositório. Dá um pulinho lá 😉.
 
