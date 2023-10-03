@@ -11,8 +11,3 @@ Acredito que toda essa bagagem que tenho, tem muito a agregar nessa área de pro
 Tenho alguns projetos que fiz que estão lá no Repositório. Dá um pulinho lá 😉.
 
 Até mais 🙋🏻‍♀️
-
-<!---
-suelimeneses/suelimeneses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
